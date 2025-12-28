@@ -12,5 +12,4 @@ This notice applies to **operational and commercial implementations**.
 Non-commercial research, protocol review, and open technical discussion
 are not restricted.
 
-Commercial implementations may require authorization.
-
+Telegram public notice: https://t.me/dcoin_pct
